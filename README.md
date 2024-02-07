@@ -1,7 +1,9 @@
-### Hi im Pau 👋
+<h2> Hi, I'm Pau Aguilar!</h2>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczN1eTJ6Mzk2MWdhdmozeGtlNHZjcnVtN2FnZ3Z4d3R3cTdibG05ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/55DUoWF4HeKhG/giphy.gif" width="230">
 
 - 🌱 I’m currently learning about computers in my degree
 - 📫 How to reach me: Pau.ag.dev@gmail.com
+
 
 <!--
 **Pauag99/Pauag99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
