@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi im Pau 👋
+
+- 🌱 I’m currently learning about computers in my degree
+- 📫 How to reach me: Pau.ag.dev@gmail.com
 
 <!--
 **Pauag99/Pauag99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
